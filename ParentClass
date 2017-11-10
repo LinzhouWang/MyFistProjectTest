@@ -1,0 +1,8 @@
+public class ParentClass
+{
+ public int status{get;set;}
+ public void ChangeStatus(int tatus)
+ {
+  status=tatus;
+ }
+}
